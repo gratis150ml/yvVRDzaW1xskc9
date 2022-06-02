@@ -43,8 +43,3 @@ function checkshit() {
             retarded2.style.color = ''
     }
 }
-kYCZE3TyTsIbhMoc
-cIIcELgDra7Zqm5ySki9
-
-VqYfW9P8JM2On
-Nb4xtvsKwvUOVNiGNGb5Vxe
